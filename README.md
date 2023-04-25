@@ -65,8 +65,6 @@ The following device has a Greenish/Cyanish theme...
 	<img src = "https://user-images.githubusercontent.com/17025709/234411730-36114223-5fa9-46a0-be3e-4f26c3b67c83.jpeg" alt="with 0.6 blend ration" style="width:20%">
 </div>
 
-The following device has a Greenish/Cyanish theme...
-
 - `blendRatio = 0`: 
 <img src = "https://user-images.githubusercontent.com/17025709/234410805-4c275097-80bd-47c7-9c5d-9353a74e35c7.jpeg" alt="with 0 blend ration" style="width:20%">
 
