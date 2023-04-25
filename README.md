@@ -58,6 +58,15 @@ fun ColorScheme.blendWithSystemUI(
 
 The following device has a Greenish/Cyanish theme...
 
+<div style="display: flex; align-items: center;">
+	<img src = "https://user-images.githubusercontent.com/17025709/234410805-4c275097-80bd-47c7-9c5d-9353a74e35c7.jpeg" alt="with 0 blend ration" style="width:20%">
+	<img src = "https://user-images.githubusercontent.com/17025709/234411247-aae53ea4-0bf2-4390-b5af-86239cfb9e50.jpeg" alt="with 0.3 blend ration" style="width:20%">
+	<img src = "https://user-images.githubusercontent.com/17025709/234411494-2ff7c647-def5-4488-ac52-5cc501313608.jpeg" alt="with 0.6 blend ration" style="width:20%">
+	<img src = "https://user-images.githubusercontent.com/17025709/234411730-36114223-5fa9-46a0-be3e-4f26c3b67c83.jpeg" alt="with 0.6 blend ration" style="width:20%">
+</div>
+
+The following device has a Greenish/Cyanish theme...
+
 - `blendRatio = 0`: 
 <img src = "https://user-images.githubusercontent.com/17025709/234410805-4c275097-80bd-47c7-9c5d-9353a74e35c7.jpeg" alt="with 0 blend ration" style="width:20%">
 
