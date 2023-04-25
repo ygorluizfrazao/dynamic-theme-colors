@@ -33,7 +33,7 @@ Then, in your *build.gradle*:
 
 ```groovy
 	dependencies {
-	        //
+		implementation 'com.github.ygorluizfrazao:dynamic-theme-colors:v1.0.0-buildtest01'
 	}
 ```
 
