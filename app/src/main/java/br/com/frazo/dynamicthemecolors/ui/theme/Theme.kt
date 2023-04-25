@@ -44,7 +44,6 @@ fun DynamicThemeColorsTheme(
     content: @Composable () -> Unit
 ) {
 
-    println("BlendRatio: $blendRatio")
     val dynamicColorScheme =
         baseColorScheme.blendWithSystemUI(darkTheme = darkTheme, blendRatio)
 
